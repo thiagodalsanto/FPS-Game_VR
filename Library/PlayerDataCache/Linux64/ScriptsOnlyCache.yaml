@@ -65,13 +65,13 @@ ScriptsOnlyBuild:
     methodName: StartGame
   - assembly: Assembly-CSharp
     fullTypeName: PauseMenu
+    methodName: ResumeGame
+  - assembly: Assembly-CSharp
+    fullTypeName: PauseMenu
     methodName: QuitGame
   - assembly: Assembly-CSharp
     fullTypeName: PauseMenu
     methodName: GoToMainMenu
-  - assembly: Assembly-CSharp
-    fullTypeName: PauseMenu
-    methodName: ResumeGame
   sceneClasses:
     Assets/Scenes/Game.unity:
     - Class: 1
@@ -113,25 +113,25 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1566}
+      Script: {instanceID: 1612}
     - Class: 114
-      Script: {instanceID: 2542}
+      Script: {instanceID: 2588}
     - Class: 114
-      Script: {instanceID: 2742}
+      Script: {instanceID: 2788}
     - Class: 114
-      Script: {instanceID: 3014}
+      Script: {instanceID: 3062}
     - Class: 114
-      Script: {instanceID: 4908}
+      Script: {instanceID: 4956}
     - Class: 114
-      Script: {instanceID: 5442}
+      Script: {instanceID: 5492}
     - Class: 114
-      Script: {instanceID: 5586}
+      Script: {instanceID: 5504}
     - Class: 114
-      Script: {instanceID: 5894}
+      Script: {instanceID: 5638}
     - Class: 114
-      Script: {instanceID: 23358}
+      Script: {instanceID: 5946}
     - Class: 114
-      Script: {instanceID: 33456}
+      Script: {instanceID: 7642}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -176,31 +176,31 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1566}
+      Script: {instanceID: 1612}
     - Class: 114
-      Script: {instanceID: 2134}
+      Script: {instanceID: 2180}
     - Class: 114
-      Script: {instanceID: 2260}
+      Script: {instanceID: 2306}
     - Class: 114
-      Script: {instanceID: 2542}
+      Script: {instanceID: 2588}
     - Class: 114
-      Script: {instanceID: 2742}
+      Script: {instanceID: 2788}
     - Class: 114
-      Script: {instanceID: 3014}
+      Script: {instanceID: 2794}
     - Class: 114
-      Script: {instanceID: 3988}
+      Script: {instanceID: 3062}
     - Class: 114
-      Script: {instanceID: 4234}
+      Script: {instanceID: 4036}
     - Class: 114
-      Script: {instanceID: 4908}
+      Script: {instanceID: 4282}
     - Class: 114
-      Script: {instanceID: 5442}
+      Script: {instanceID: 4956}
     - Class: 114
-      Script: {instanceID: 5586}
+      Script: {instanceID: 5492}
     - Class: 114
-      Script: {instanceID: 5894}
+      Script: {instanceID: 5638}
     - Class: 114
-      Script: {instanceID: 30990}
+      Script: {instanceID: 5946}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -374,6 +374,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MainMenu
   - hash:
       serializedVersion: 2
       Hash: f40fedccd4adbc76605bea6d67537e4b
@@ -742,10 +748,22 @@ ScriptsOnlyBuild:
     className: StateGraphAsset
   - hash:
       serializedVersion: 2
+      Hash: 97d11d35e9b9a69779387a0c996fcdc8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DemoFree
+  - hash:
+      serializedVersion: 2
       Hash: a1aa98c78061c6f03a8c124cda576e67
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 07d69ce4a98bc6bb9d8730614c21369e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SimpleSampleCharacterControl
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -988,40 +1006,22 @@ ScriptsOnlyBuild:
     className: TouchInputModule
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Unity.VisualScripting.Core.dll
-    namespaceName: Unity.VisualScripting
-    className: UnityOnSliderValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 97d11d35e9b9a69779387a0c996fcdc8
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: DemoFree
-  - hash:
-      serializedVersion: 2
       Hash: 48aa7e3a10ad49e34c99883f1c252b8d
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: FreeCameraLogic
   - hash:
       serializedVersion: 2
-      Hash: 07d69ce4a98bc6bb9d8730614c21369e
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: SimpleSampleCharacterControl
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: MainMenu
-  - hash:
-      serializedVersion: 2
       Hash: 930b2a7c015542327cee6af349728cdd
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PauseMenu
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.VisualScripting.Core.dll
+    namespaceName: Unity.VisualScripting
+    className: UnityOnSliderValueChangedMessageListener
   platform: 24
   scenePathNames:
   - Assets/Scenes/MainMenu.unity

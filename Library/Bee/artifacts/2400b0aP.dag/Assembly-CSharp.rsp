@@ -298,11 +298,11 @@
 -r:"Library/Bee/artifacts/2400b0aP.dag/Unity.VisualScripting.Flow.ref.dll"
 -r:"Library/Bee/artifacts/2400b0aP.dag/Unity.VisualScripting.State.ref.dll"
 -r:"Library/Bee/artifacts/2400b0aP.dag/UnityEngine.UI.ref.dll"
-"Assets/Imports/Supercyan Character Pack Free Sample/Scripts/DemoFree.cs"
-"Assets/Imports/Supercyan Character Pack Free Sample/Scripts/FreeCameraLogic.cs"
-"Assets/Imports/Supercyan Character Pack Free Sample/Scripts/SimpleSampleCharacterControl.cs"
 "Assets/Script/MainMenu.cs"
 "Assets/Script/PauseMenu.cs"
+"Assets/Supercyan Character Pack Free Sample/Scripts/DemoFree.cs"
+"Assets/Supercyan Character Pack Free Sample/Scripts/FreeCameraLogic.cs"
+"Assets/Supercyan Character Pack Free Sample/Scripts/SimpleSampleCharacterControl.cs"
 -langversion:9.0
 
 /deterministic
