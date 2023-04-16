@@ -6,9 +6,14 @@ public class PlayerController : MonoBehaviour
 {
     public Transform bulletSpawn;
     public GameObject bulletPrefab;
+    public GameObject deactivatePlayer;
+    public Behaviour canvasDeath; 
+    public Behaviour disableTextKillCounter;
+
     void Start()
     {
-
+        canvasDeath.enabled = false;
+        disableTextKillCounter.enabled = true;
     }
 
     void Update()
@@ -32,5 +37,21 @@ public class PlayerController : MonoBehaviour
             bullet.GetComponent<Rigidbody>().velocity = bullet.transform.forward * 6;
             Destroy(bullet, 3.0f);
         }
+    }
+
+    private void OnTriggerEnter(Collider other) 
+    {
+        if (other.CompareTag("Enemy"))
+        {
+            deactivatePlayer.SetActive(false);
+            callCanvasDeath();
+        }
+    }
+
+    private void callCanvasDeath()
+    {
+        canvasDeath.enabled = !canvasDeath.enabled;
+        Time.timeScale = 0f;
+        disableTextKillCounter.enabled = false;
     }
 }

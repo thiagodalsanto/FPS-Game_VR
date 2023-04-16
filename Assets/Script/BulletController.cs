@@ -9,7 +9,7 @@ public class BulletController : MonoBehaviour
 
     private void Start()
     {
-        killCounterScript = GameObject.Find("KCO").GetComponent<KillCounter>();
+        killCounterScript = GameObject.Find("KillCounterScript").GetComponent<KillCounter>();
     }
 
     private void OnCollisionEnter(Collision other)

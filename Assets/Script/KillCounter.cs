@@ -8,11 +8,6 @@ public class KillCounter : MonoBehaviour
     public Text counterText;
     int kills;
 
-    void Start()
-    {
-
-    }
-
     void Update()
     {
         ShowKills();
