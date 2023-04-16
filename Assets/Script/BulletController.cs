@@ -5,6 +5,13 @@ using UnityEngine;
 public class BulletController : MonoBehaviour
 {
     public GameObject enemy;
+    KillCounter killCounterScript;
+
+    private void Start()
+    {
+        killCounterScript = GameObject.Find("KCO").GetComponent<KillCounter>();
+    }
+
     private void OnCollisionEnter(Collision other)
     {
         if (other.gameObject.CompareTag("Enemy"))
@@ -20,6 +27,7 @@ public class BulletController : MonoBehaviour
 
             Destroy(hit);
             Destroy(gameObject);
+            killCounterScript.AddKills();
         }
     }
 }

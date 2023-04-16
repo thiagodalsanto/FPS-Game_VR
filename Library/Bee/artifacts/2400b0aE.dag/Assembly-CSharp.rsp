@@ -343,6 +343,7 @@
 -r:"Library/Bee/artifacts/2400b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/2400b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Script/BulletController.cs"
+"Assets/Script/KillCounter.cs"
 "Assets/Script/MainMenu.cs"
 "Assets/Script/PauseMenu.cs"
 "Assets/Script/PlayerController.cs"
