@@ -349,6 +349,7 @@
 "Assets/Script/PauseMenu.cs"
 "Assets/Script/PlayerController.cs"
 "Assets/Script/SpikeTrap.cs"
+"Assets/Script/UmbrellaTrap.cs"
 "Assets/SimpleEnviroment/Scripts/BasicAnimator.cs"
 "Assets/SimpleEnviroment/Scripts/SceneManager.cs"
 "Assets/SimpleEnviroment/Scripts/Storage.cs"

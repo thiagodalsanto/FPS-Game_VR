@@ -2287,3 +2287,731 @@ Received Import Request.
   path: Assets/Little_Ghost2/Materials/Ghost/Ghost_2.mat
   artifactKey: Guid(78b1d58f8931b82478961e4ed94b1825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Little_Ghost2/Materials/Ghost/Ghost_2.mat using Guid(78b1d58f8931b82478961e4ed94b1825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2f1831a68be7e60057a30e09652fd04') in 0,034418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 212,124406 seconds.
+  path: Assets/SpaceZeta_ColoredParasols
+  artifactKey: Guid(8613dd1838d1e7ddcbfd455ef5c27bcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols using Guid(8613dd1838d1e7ddcbfd455ef5c27bcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '164887c6d634e922abc53939d07199de') in 0,003295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3,646350 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs
+  artifactKey: Guid(d0c91bd4d782d8145ab022f22357b6be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs using Guid(d0c91bd4d782d8145ab022f22357b6be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80094894b827774691df0f49814c28dc') in 0,001885 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,069034 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Black.prefab
+  artifactKey: Guid(d12f28d72496cf44190fffda66c924a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Black.prefab using Guid(d12f28d72496cf44190fffda66c924a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '452bd819bb90739f754e23f85b372a9a') in 1,076917 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000053 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Green.prefab
+  artifactKey: Guid(95baccf74b68d8441a0ba9b9395d4f18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Green.prefab using Guid(95baccf74b68d8441a0ba9b9395d4f18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e683d9672efb36f1a9becc491d83499') in 0,036625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000060 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_White.prefab
+  artifactKey: Guid(5278e1cfd0218024dbc2170df693b18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_White.prefab using Guid(5278e1cfd0218024dbc2170df693b18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e820554db3ae047e50e9517f46f4bf1') in 0,032997 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000041 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab
+  artifactKey: Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab using Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc3b979034a86cca8a367898a5fbd239') in 0,033298 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000065 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Blue.prefab
+  artifactKey: Guid(5e2987bf0912929429e0ae326cc13f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Blue.prefab using Guid(5e2987bf0912929429e0ae326cc13f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bdf7e58883898bfa2aadcae70b224c5') in 0,032549 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000037 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Yellow.prefab
+  artifactKey: Guid(d91d954535c0f864a87b23bf4341a0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Yellow.prefab using Guid(d91d954535c0f864a87b23bf4341a0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93bde998d1f0195b5c9afc88f590f040') in 0,031975 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25,764573 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab
+  artifactKey: Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab using Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2177310dd91a0d2c2f495f0c77ec4f9b') in 0,046787 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3,971771 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab
+  artifactKey: Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab using Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3085317e66a8039bf56453a69bfaae7a') in 0,024074 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7,831882 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab
+  artifactKey: Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab using Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d4f5593dff3679fb091595d73769fbc') in 0,024443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11,171352 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab
+  artifactKey: Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab using Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbbacb21cea0a2a83aedd1f035e3ff79') in 0,023911 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9,696580 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab
+  artifactKey: Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab using Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34495997cf4b35474345a8656a1dbe41') in 0,050404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22,023469 seconds.
+  path: Assets/Script/UmbrellaTrap.cs
+  artifactKey: Guid(7cc32caeb7c09a20b9456de374565ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UmbrellaTrap.cs using Guid(7cc32caeb7c09a20b9456de374565ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be74648e9092a1178b7ef0f1d4c87583') in 0,002043 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,008576 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/thiago/Documentos/UTFPR/Programação/Realidade Virtual/JogoTiro/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /home/thiago/Documentos/UTFPR/Programação/Realidade Virtual/JogoTiro/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1,26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2,171 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2173ms)
+		BeginReloadAssembly (220ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (73ms)
+		EndReloadAssembly (1770ms)
+			LoadAssemblies (106ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (533ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (141ms)
+			SetupLoadedEditorAssemblies (782ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (28ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (191ms)
+				ProcessInitializeOnLoadAttributes (506ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
+				AfterProcessingInitializeOnLoad (15ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3,99 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3056 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (58,8 KB). Loaded Objects now: 3707.
+Memory consumption went from 145,9 MB to 145,9 MB.
+Total: 7,811272 ms (FindLiveObjects: 0,516703 ms CreateObjectMapping: 0,456559 ms MarkObjects: 6,151166 ms  DeleteObjects: 0,683166 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,008665 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/thiago/Documentos/UTFPR/Programação/Realidade Virtual/JogoTiro/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /home/thiago/Documentos/UTFPR/Programação/Realidade Virtual/JogoTiro/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,880 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1881ms)
+		BeginReloadAssembly (188ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (55ms)
+		EndReloadAssembly (1535ms)
+			LoadAssemblies (90ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (527ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (89ms)
+			SetupLoadedEditorAssemblies (737ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (128ms)
+				ProcessInitializeOnLoadAttributes (547ms)
+				ProcessInitializeOnLoadMethodAttributes (33ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1,98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3056 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (58,8 KB). Loaded Objects now: 3710.
+Memory consumption went from 145,9 MB to 145,9 MB.
+Total: 4,318109 ms (FindLiveObjects: 0,361492 ms CreateObjectMapping: 0,184355 ms MarkObjects: 3,314100 ms  DeleteObjects: 0,456668 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 73,898663 seconds.
+  path: Assets/Script/UmbrellaTrap.cs
+  artifactKey: Guid(7cc32caeb7c09a20b9456de374565ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UmbrellaTrap.cs using Guid(7cc32caeb7c09a20b9456de374565ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b11b47277351a727d63804835ea6cb96') in 0,012414 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,006425 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/thiago/Documentos/UTFPR/Programação/Realidade Virtual/JogoTiro/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /home/thiago/Documentos/UTFPR/Programação/Realidade Virtual/JogoTiro/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,946 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1947ms)
+		BeginReloadAssembly (176ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (57ms)
+		EndReloadAssembly (1624ms)
+			LoadAssemblies (87ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (474ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (94ms)
+			SetupLoadedEditorAssemblies (772ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (20ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (153ms)
+				ProcessInitializeOnLoadAttributes (534ms)
+				ProcessInitializeOnLoadMethodAttributes (42ms)
+				AfterProcessingInitializeOnLoad (22ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4,49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3056 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (58,9 KB). Loaded Objects now: 3713.
+Memory consumption went from 145,9 MB to 145,9 MB.
+Total: 11,393642 ms (FindLiveObjects: 0,830020 ms CreateObjectMapping: 0,342063 ms MarkObjects: 9,519254 ms  DeleteObjects: 0,697519 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 33,742416 seconds.
+  path: Assets/Script/BulletController.cs
+  artifactKey: Guid(b88e99de381d12f5fbc72b9b15e9f3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/BulletController.cs using Guid(b88e99de381d12f5fbc72b9b15e9f3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27c00fb112a2489679c35a88ae808a55') in 0,007861 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,008241 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/thiago/Documentos/UTFPR/Programação/Realidade Virtual/JogoTiro/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /home/thiago/Documentos/UTFPR/Programação/Realidade Virtual/JogoTiro/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1,55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2,830 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2834ms)
+		BeginReloadAssembly (251ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (91ms)
+		EndReloadAssembly (2373ms)
+			LoadAssemblies (121ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (753ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (170ms)
+			SetupLoadedEditorAssemblies (1086ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (26ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (207ms)
+				ProcessInitializeOnLoadAttributes (754ms)
+				ProcessInitializeOnLoadMethodAttributes (72ms)
+				AfterProcessingInitializeOnLoad (23ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5,37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3056 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (58,8 KB). Loaded Objects now: 3716.
+Memory consumption went from 146,0 MB to 145,9 MB.
+Total: 20,374682 ms (FindLiveObjects: 0,398249 ms CreateObjectMapping: 0,327718 ms MarkObjects: 15,578211 ms  DeleteObjects: 4,067412 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,009988 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/thiago/Documentos/UTFPR/Programação/Realidade Virtual/JogoTiro/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /home/thiago/Documentos/UTFPR/Programação/Realidade Virtual/JogoTiro/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1,22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2,808 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2810ms)
+		BeginReloadAssembly (287ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (16ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (88ms)
+		EndReloadAssembly (2276ms)
+			LoadAssemblies (141ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (682ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (175ms)
+			SetupLoadedEditorAssemblies (1103ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (25ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (215ms)
+				ProcessInitializeOnLoadAttributes (759ms)
+				ProcessInitializeOnLoadMethodAttributes (76ms)
+				AfterProcessingInitializeOnLoad (24ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4,34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3056 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (58,8 KB). Loaded Objects now: 3719.
+Memory consumption went from 146,0 MB to 145,9 MB.
+Total: 20,195876 ms (FindLiveObjects: 0,498391 ms CreateObjectMapping: 0,466503 ms MarkObjects: 16,527164 ms  DeleteObjects: 2,700990 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,009690 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/thiago/Documentos/UTFPR/Programação/Realidade Virtual/JogoTiro/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /home/thiago/Documentos/UTFPR/Programação/Realidade Virtual/JogoTiro/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1,22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2,220 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2221ms)
+		BeginReloadAssembly (229ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (74ms)
+		EndReloadAssembly (1800ms)
+			LoadAssemblies (120ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (564ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (97ms)
+			SetupLoadedEditorAssemblies (881ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (31ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (142ms)
+				ProcessInitializeOnLoadAttributes (633ms)
+				ProcessInitializeOnLoadMethodAttributes (54ms)
+				AfterProcessingInitializeOnLoad (19ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2,24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3056 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (58,8 KB). Loaded Objects now: 3722.
+Memory consumption went from 146,0 MB to 145,9 MB.
+Total: 19,543413 ms (FindLiveObjects: 0,370671 ms CreateObjectMapping: 0,257234 ms MarkObjects: 18,050745 ms  DeleteObjects: 0,862488 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 194,189221 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab
+  artifactKey: Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab using Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e4ddd93c90ce450ed93bb2764b36811') in 0,180530 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34,210849 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab
+  artifactKey: Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab using Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faebc36147ca439c425876681cd8e642') in 0,027432 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14,231489 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab
+  artifactKey: Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab using Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c53411f069788a18ecdce5e59c8d8431') in 0,028873 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12,228365 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab
+  artifactKey: Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab using Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fa7023fbdc543e21337afe88cef3d86') in 0,053338 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 51,491737 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab
+  artifactKey: Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab using Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd30bf508c076662166619134e8bd8d7c') in 0,028129 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2,416253 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab
+  artifactKey: Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab using Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca496498e7d91ded5a9b3b7fd7a695a9') in 0,021886 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14,950794 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab
+  artifactKey: Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab using Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74bac2fc2c365d491c470d3f66513c53') in 0,030383 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2,072159 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab
+  artifactKey: Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab using Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5308f60fb90e5aae9a0e5c6943a522ea') in 0,043325 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5,462748 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab
+  artifactKey: Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab using Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f3b09b1584310783d465c05e146bddb') in 0,024479 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,008466 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/thiago/Documentos/UTFPR/Programação/Realidade Virtual/JogoTiro/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /home/thiago/Documentos/UTFPR/Programação/Realidade Virtual/JogoTiro/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1,16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2,233 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2235ms)
+		BeginReloadAssembly (260ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (85ms)
+		EndReloadAssembly (1746ms)
+			LoadAssemblies (133ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (577ms)
+			ReleaseScriptCaches (5ms)
+			RebuildScriptCaches (113ms)
+			SetupLoadedEditorAssemblies (782ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (21ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (139ms)
+				ProcessInitializeOnLoadAttributes (563ms)
+				ProcessInitializeOnLoadMethodAttributes (43ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3,98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3056 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (58,8 KB). Loaded Objects now: 3725.
+Memory consumption went from 146,0 MB to 146,0 MB.
+Total: 17,569504 ms (FindLiveObjects: 0,940770 ms CreateObjectMapping: 1,262958 ms MarkObjects: 14,529232 ms  DeleteObjects: 0,833128 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,008441 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/thiago/Documentos/UTFPR/Programação/Realidade Virtual/JogoTiro/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /home/thiago/Documentos/UTFPR/Programação/Realidade Virtual/JogoTiro/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1,71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2,189 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2191ms)
+		BeginReloadAssembly (233ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (79ms)
+		EndReloadAssembly (1755ms)
+			LoadAssemblies (115ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (551ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (87ms)
+			SetupLoadedEditorAssemblies (885ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (28ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (166ms)
+				ProcessInitializeOnLoadAttributes (605ms)
+				ProcessInitializeOnLoadMethodAttributes (67ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4,27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3056 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (58,8 KB). Loaded Objects now: 3728.
+Memory consumption went from 146,0 MB to 146,0 MB.
+Total: 12,971021 ms (FindLiveObjects: 0,406838 ms CreateObjectMapping: 0,310674 ms MarkObjects: 10,643394 ms  DeleteObjects: 1,606629 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,008069 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/thiago/Documentos/UTFPR/Programação/Realidade Virtual/JogoTiro/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /home/thiago/Documentos/UTFPR/Programação/Realidade Virtual/JogoTiro/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1,00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2,285 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2286ms)
+		BeginReloadAssembly (252ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (86ms)
+		EndReloadAssembly (1828ms)
+			LoadAssemblies (120ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (547ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (121ms)
+			SetupLoadedEditorAssemblies (869ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (25ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (174ms)
+				ProcessInitializeOnLoadAttributes (609ms)
+				ProcessInitializeOnLoadMethodAttributes (42ms)
+				AfterProcessingInitializeOnLoad (17ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2,42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3056 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (58,9 KB). Loaded Objects now: 3731.
+Memory consumption went from 146,0 MB to 146,0 MB.
+Total: 14,063332 ms (FindLiveObjects: 0,442414 ms CreateObjectMapping: 0,985106 ms MarkObjects: 11,858966 ms  DeleteObjects: 0,773546 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 175,367527 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab
+  artifactKey: Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab using Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05476f0ac2bffb11208fe6194d7e1a1f') in 0,174251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4,488772 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab
+  artifactKey: Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab using Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43e937311ce34d4fba5f28ee2072e8cb') in 0,022789 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2,989163 seconds.
+  path: Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab
+  artifactKey: Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_ColoredParasols/Prefabs/Parasol_Red.prefab using Guid(ea81531bee2f9e14da930af9b5cafbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b05adfa92615c334f4eddef425dad90') in 0,040105 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,012501 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/thiago/Documentos/UTFPR/Programação/Realidade Virtual/JogoTiro/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /home/thiago/Documentos/UTFPR/Programação/Realidade Virtual/JogoTiro/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1,05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2,946 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2948ms)
+		BeginReloadAssembly (303ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (97ms)
+		EndReloadAssembly (2394ms)
+			LoadAssemblies (147ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (697ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (165ms)
+			SetupLoadedEditorAssemblies (1171ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (31ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (203ms)
+				ProcessInitializeOnLoadAttributes (818ms)
+				ProcessInitializeOnLoadMethodAttributes (88ms)
+				AfterProcessingInitializeOnLoad (27ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3,93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3056 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (58,8 KB). Loaded Objects now: 3734.
+Memory consumption went from 146,1 MB to 146,0 MB.
+Total: 14,299604 ms (FindLiveObjects: 0,517988 ms CreateObjectMapping: 0,364750 ms MarkObjects: 8,846413 ms  DeleteObjects: 4,565849 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
