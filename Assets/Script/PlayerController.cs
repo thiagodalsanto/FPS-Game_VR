@@ -11,6 +11,8 @@ public class PlayerController : MonoBehaviour
     public Behaviour disableTextKillCounter;
     public Behaviour disablePauseMenu;
     public PauseMenu mortePauseMenu;
+    public AudioSource audioDeath;
+    public AudioSource pauseMusicBackground;
 
     void Start()
     {
@@ -54,6 +56,8 @@ public class PlayerController : MonoBehaviour
     private void callCanvasDeath()
     {
         mortePauseMenu.dead = true;
+        audioDeath.Play();
+        pauseMusicBackground.Pause();
         canvasDeath.enabled = !canvasDeath.enabled;
         Time.timeScale = 0f;
         disableTextKillCounter.enabled = false;
