@@ -21,7 +21,7 @@
 * Menu Inicial
     * Opções de Iniciar Partida e Sair do Jogo
 * Menu de Pause
-    * Opçãoes de voltar ao Menu Inicial, Sair do Jogo e Continuar Partida
+    * Opções de voltar ao Menu Inicial, Sair do Jogo e Continuar Partida
     * Pode ser acessado com a tecla ESC
 * Menu de Morte
     * Aparece quando o Player morre
