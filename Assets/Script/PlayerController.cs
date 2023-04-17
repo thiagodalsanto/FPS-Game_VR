@@ -9,11 +9,14 @@ public class PlayerController : MonoBehaviour
     public GameObject deactivatePlayer;
     public Behaviour canvasDeath; 
     public Behaviour disableTextKillCounter;
+    public Behaviour disablePauseMenu;
+    public PauseMenu mortePauseMenu;
 
     void Start()
     {
         canvasDeath.enabled = false;
         disableTextKillCounter.enabled = true;
+        mortePauseMenu = GameObject.FindObjectOfType<PauseMenu>();
     }
 
     void Update()
@@ -50,8 +53,10 @@ public class PlayerController : MonoBehaviour
 
     private void callCanvasDeath()
     {
+        mortePauseMenu.dead = true;
         canvasDeath.enabled = !canvasDeath.enabled;
         Time.timeScale = 0f;
         disableTextKillCounter.enabled = false;
+        disablePauseMenu.enabled = false;
     }
 }

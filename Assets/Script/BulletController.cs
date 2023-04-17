@@ -21,9 +21,9 @@ public class BulletController : MonoBehaviour
             float randomX = UnityEngine.Random.Range(-20, 20);
             float randomZ = UnityEngine.Random.Range(-20, 20);
 
-            var zombie = (GameObject)Instantiate(enemy);
-            zombie.transform.position = new Vector3(randomX, 0, randomZ);
-            zombie.transform.rotation = Quaternion.Euler(0, UnityEngine.Random.Range(0, 360), 0);
+            var enemyMesh = (GameObject)Instantiate(enemy);
+            enemyMesh.transform.position = new Vector3(randomX, 0, randomZ);
+            enemyMesh.transform.rotation = Quaternion.Euler(0, UnityEngine.Random.Range(0, 360), 0);
 
             Destroy(hit);
             Destroy(gameObject);

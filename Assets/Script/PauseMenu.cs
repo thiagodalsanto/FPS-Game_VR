@@ -7,15 +7,17 @@ public class PauseMenu : MonoBehaviour
 {
     public GameObject pauseMenu;
     public static bool isPaused;
+    public bool dead;
 
     void Start()
     {
         pauseMenu.SetActive(false);
+        dead = false;
     }
 
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Escape))
+        if(Input.GetKeyDown(KeyCode.Escape) && dead == false)
         {
             if(isPaused)
             {
@@ -30,6 +32,7 @@ public class PauseMenu : MonoBehaviour
 
     public void PauseGame()
     {
+        dead = false;
         pauseMenu.SetActive(true);
         Time.timeScale = 0f;
         isPaused = true;
@@ -37,6 +40,7 @@ public class PauseMenu : MonoBehaviour
 
     public void ResumeGame()
     {
+        dead = false;
         pauseMenu.SetActive(false);
         Time.timeScale = 1f;
         isPaused = false;
@@ -44,8 +48,9 @@ public class PauseMenu : MonoBehaviour
 
     public void GoToMainMenu()
     {
+        dead = true;
         Time.timeScale = 1f;
-        SceneManager.LoadScene("MainMenu");
+        UnityEngine.SceneManagement.SceneManager.LoadScene("MainMenu");
         isPaused = false;
     }
 
