@@ -2,7 +2,7 @@
 
 ## Sobre o trabalho:
 
-* Disciplina: OP63F-C71 - Realidade Virtual
+* Disciplina: OP63F-CC8 - Realidade Virtual
 * Turma: 2023/1 - 7º Período
 * Professor: Jorge Aikes Junior
 
